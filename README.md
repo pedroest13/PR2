@@ -1,0 +1,2 @@
+A la hora de tomar la decisión de comprar algo tan esencial para la vida, como lo es una casa, saber predecir cuánto costará es un tema abrumante. Con este archivo de datos, se describe el precio por casa, dependiendo de su tamaño, baños, pisos, cuartos y ciertas comodidades. Podremos hacer un análisis de factores que influyen en el precio de una casa y desarrollar predicciones en el mercado de bienes raíces. 
+# PR2
